@@ -10,13 +10,13 @@
     "PREFIXE":
     {
       "description":"choisissez votre préfixe",
-      "value":"@",
+      "value":".",
       "required":true
     },
     "LECTURE_AUTO_STATUS":
     {
       "description":"le bot lira tous les status automatiquement (oui pour activer et non pour désactiver)",
-      "value":"oui",
+      "value":"non",
       "required":false
     }, "TELECHARGER_AUTO_STATUS":
     {
@@ -28,14 +28,14 @@
     "NOM_BOT" : {
        
       "description":"Un nom pour votre bot",
-      "value":"HACKING-MD",
+      "value":"KANEKI-MD",
       "required":false
 
     } ,
      "LIENS_MENU" : {
     
       "description":"Ajoutez un ou plusieurs lien(s) d'image ou de video pour votre bot ; exemple : lien1,lien2,lien3......",
-      "value":"https://telegra.ph/file/7113ddc85a26a69a7a437.jpg",
+      "value":"https://i.pinimg.com/236x/64/29/9d/64299d9fbd5601ea170475723a630ecb.jpg",
       "required":false
        
      },
@@ -50,7 +50,7 @@
     "MODE_PUBLIC":
     {
       "description":"oui pour le mode public ou non pour le mode privé(Dans ce vous seul  utiliserez le bot)",
-      "value":"oui",
+      "value":"non",
       "required":false
     }
 	,
@@ -71,7 +71,7 @@
     "SESSION_ID":
     {
       "description":"veuillez renseigner votre id de session",   
-      "value":"",
+      "value":"HACKING-MD;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMEtJdFkvT3BjaFJSNGRhbncwd1kwaUJLdnpkZ1pEQW9PS240dllYSWJuMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMjlOdm9vcFhVYXNOL3NiKzlIQ2lTTWpGRWtFdVYxbGxmRVpNVjJMSjgzVT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ1T1dUVHFtZlNjWDlKaFd0UGs3Nkw3NHZGNFpkNmlRRk5pTVlKUFhmRWtzPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJwVllOZTBJVFVmdXJ0bExaMXZOaTdSYzR2WDNFMFdEQnRiekdweGVGRlNnPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImNJUGJ4S1U5eExmQ0o1UzluaGZDK2NBeUlkVzNkcU91SlovTVlOT3ZpM2s9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ilcrc29PeFVEc0FVSGE2UzJMdHFqVndSTTJLRENuTmtJRjluK0t1OCtmQ1U9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ0lmOTBDUTJKejdyTXlvQVNxUUxBSEVKQkFnTzEzaFRMKzU2ZC9xNHRFRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWlFReXlhdk1QS1FudDlLQ2tBQitaU1lwcjZ1OVZRS0NEaHJjU01KQXIzOD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im5qQzFFdEZBc2NZYkh6WlJ2UU42UzNnTitVK3o0YlZHdlZDTzV4bnljaFp5SzQzUmUvbVFsMnJDNUNBdnN0S1NrUkxvU1R3NlNRUWZZOHZFRzhGY0RRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTAwLCJhZHZTZWNyZXRLZXkiOiJielJHY1VlT25GN2kzQWVhQkNjZmJWd1NibUFxZ1VLRjdCaTBWaTJvdHJvPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJZbjROWjU5OFJ2eUliOEIzYm9pMFh3IiwicGhvbmVJZCI6IjM0NDQ4MGVhLWJkNjYtNGIxZC05ODc2LTU5ZDZjZWQ4YjMwNyIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJqU3JsWjJvL0JxeGdXMzdWVittQmpjaURYeVk9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMFlML2t3cUcyamRxZndmSFQ3UTVOM1lUZHpFPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjhQVDNXVEFMIiwibWUiOnsiaWQiOiIyMjE3NjE1NTE1OTE6NTlAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoi8J2QjPCdkJrwnZCm8J2QmvCdkJ3wnZCo8J2QriJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTGVJdTBFUWx0TFd1Z1lZQVNBQUtBQT0iLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiR1habWVBemtvM1R6dEdmM0xPWG9rVWU2aDU0RHJWOU56L2N0V3BOZHRGZz0iLCJhY2NvdW50U2lnbmF0dXJlIjoiZjdBalo1NDFWcU02elVkbHovQk1jYkIvRkZLbnpvZ3JMUUdjdTdQMWNVSnZvNGdOcm5LOHdCVTVuUmxKVFR2R0F0RHFKYUxhdkNMSzBTbEF4TXRlQnc9PSIsImRldmljZVNpZ25hdHVyZSI6IlF4aFMyUXd5alJCRTJZdUJDMjZzd1BGRWlPUWVJZlNIN1E2U0hMcmxWWkoxZ0NBR1hOUlc1UkJHb2VzWWtyOTUyRk9zc2VZUWdvempoYnFYV2FkYkNBPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjIxNzYxNTUxNTkxOjU5QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlJsMlpuZ001S04wODdSbjl5emw2SkZIdW9lZUE2MWZUYy8zTFZxVFhiUlkifX1dLCJwbGF0Zm9ybSI6ImlwaG9uZSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTczMzY2NzEwOCwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFFMU0ifQ==",
       "required":true
       
     },
@@ -87,7 +87,7 @@
     
     "description": "Votre numero de telephone; il doit etre dans le format ID+numero",
     "required":false,
-    "value": "22545065189"
+    "value": "221761551591"
   },
     
 
@@ -95,7 +95,7 @@
   {
     "description": "il s'agit de nombre d'avertissement limite",
     "required": false,
-    "value": "3"
+    "value": "1"
   },
   "STARTING_BOT_MESSAGE":
   {
